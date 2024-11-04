@@ -4,9 +4,9 @@
 
 - 👨‍💻 Cursando Faculdade de Analise e Desenvolvimento de Sistemas.
 
-- 🔥 Atualmente trabalhando no Colégio Cor Jesu | Centro Universitário IESB.
+- 🔥 Atualmente trabalhando no Lekto Edução | Centro Universitário IESB.
 
-- 🔭 Estudando SQL | Levantamento de Requisitos e Modelagem de Processos | Projetos de Interface.
+- 🔭 Quality Assurance
 
 
 
