@@ -2,11 +2,11 @@
 <h1 align="left">Olá! <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" height="30px">, Eu sou o Rafhael Milanês</h1>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=RafhaelMilanes&color=yellow" alt="Profile views" /> </p>
 
-- 👨‍💻 Cursando Faculdade de Analise e Desenvolvimento de Sistemas.
+🎓 **Formado em Análise e Desenvolvimento de Sistemas**  
+📚 **Pós-graduação em Engenharia de Qualidade e Teste de Software**
 
-- 🔥 Atualmente trabalhando no Lekto Edução | Centro Universitário IESB.
+🔭 **Quality Engineer | Especialista em Garantia de Qualidade**
 
-- 🔭 Quality Assurance
 
 
 
