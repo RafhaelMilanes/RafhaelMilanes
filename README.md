@@ -1,4 +1,4 @@
-<img align="right" height="590em" src="https://raw.githubusercontent.com/gist/RafhaelMilanes/48ddfe4c935e69e29373e9d4d00617f1/raw/4605112d05af11ca60f618717e34676fdbe8eed6/githubcard.svg"/>
+
 <h1 align="left">Olá! <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" height="30px">, Eu sou o Rafhael Milanês</h1>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=RafhaelMilanes&color=yellow" alt="Profile views" /> </p>
 
